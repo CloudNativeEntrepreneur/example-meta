@@ -1,6 +1,6 @@
 # web3auth metarepo
 
-This is the metarepo for CNE's web3auth projects.
+This is the metarepo for CNE's web3auth projects that contains all of the repos that make up the project and example website, as well as a local development cluster to run it all in, as well as scripts to set it all up for you.
 
 A meta repo is just a JSON file that describes what repos make up the overall project - see `.meta`
 
