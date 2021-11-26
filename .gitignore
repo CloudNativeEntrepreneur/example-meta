@@ -1,5 +1,7 @@
 /tools/local-dev-cluster/
 /projects/web3auth-service/
 /projects/sveltekit-web3auth/
+/templates/sveltekit-web3auth-template/
 /projects/example-hasura/
 /projects/example-readmodel/
+/projects/web3auth-db/
