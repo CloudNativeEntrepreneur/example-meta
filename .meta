@@ -1,10 +1,16 @@
 {
   "projects": {
-    "tools/local-dev-cluster": "git@github.com:CloudNativeEntrepreneur/local-dev-cluster.git",
-    "projects/web3auth-service": "git@github.com:CloudNativeEntrepreneur/web3auth-service.git",
-    "projects/sveltekit-web3auth": "git@github.com:CloudNativeEntrepreneur/sveltekit-web3auth.git",
-    "templates/sveltekit-web3auth-template": "git@github.com:CloudNativeEntrepreneur/sveltekit-web3auth-template.git",
+    "projects/agenda-service": "git@github.com:CloudNativeEntrepreneur/agenda-service.git",
+    "projects/example-dead-letter-service": "git@github.com:CloudNativeEntrepreneur/example-dead-letter-service.git",
+    "projects/example-hasura-projections-service": "git@github.com:CloudNativeEntrepreneur/example-hasura-projections-service.git",
     "projects/example-hasura": "git@github.com:CloudNativeEntrepreneur/example-hasura.git",
-    "projects/example-readmodel-db": "git@github.com:CloudNativeEntrepreneur/example-readmodel-db.git"
+    "projects/example-message-model": "git@github.com:CloudNativeEntrepreneur/example-message-model-service.git",
+    "projects/example-readmodel-db": "git@github.com:CloudNativeEntrepreneur/example-readmodel-db.git",
+    "projects/sourced-db": "git@github.com:CloudNativeEntrepreneur/sourced-db.git",
+    "projects/sveltekit-web3auth": "git@github.com:CloudNativeEntrepreneur/sveltekit-web3auth.git",
+    "projects/web3auth-db": "git@github.com:CloudNativeEntrepreneur/web3auth-db.git",
+    "projects/web3auth-service": "git@github.com:CloudNativeEntrepreneur/web3auth-service.git",
+    "templates/sveltekit-web3auth-template": "git@github.com:CloudNativeEntrepreneur/sveltekit-web3auth-template.git",
+    "tools/local-dev-cluster": "git@github.com:CloudNativeEntrepreneur/local-dev-cluster.git"
   }
 }
