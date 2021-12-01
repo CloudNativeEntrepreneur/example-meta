@@ -1,7 +1,12 @@
-/tools/local-dev-cluster/
-/projects/web3auth-service/
-/projects/sveltekit-web3auth/
-/templates/sveltekit-web3auth-template/
+/projects/agenda-service/
+/projects/example-dead-letter-service/
+/projects/example-hasura-projections-service/
 /projects/example-hasura/
+/projects/example-message-model/
 /projects/example-readmodel-db/
+/projects/sourced-db/
+/projects/sveltekit-web3auth/
 /projects/web3auth-db/
+/projects/web3auth-service/
+/templates/sveltekit-web3auth-template/
+/tools/local-dev-cluster/
