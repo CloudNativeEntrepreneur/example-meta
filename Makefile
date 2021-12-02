@@ -1,6 +1,6 @@
 OS := $(shell uname)
 LOCAL_DEV_CLUSTER ?= kind-local-dev-cluster
-PROJECTS_TO_ONBOARD=projects/example-readmodel,projects/example-hasura,projects/web3auth-service,projects/sveltekit-web3auth
+PROJECTS_TO_ONBOARD=projects/web3auth-db,projects/example-readmodel-db,projects/example-hasura,projects/web3auth-service,projects/sveltekit-web3auth
 
 delete-projects:
 	meta exec "make delete-local-deployment" --include-only $(PROJECTS_TO_ONBOARD)

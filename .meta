@@ -5,6 +5,7 @@
     "projects/sveltekit-web3auth": "git@github.com:CloudNativeEntrepreneur/sveltekit-web3auth.git",
     "templates/sveltekit-web3auth-template": "git@github.com:CloudNativeEntrepreneur/sveltekit-web3auth-template.git",
     "projects/example-hasura": "git@github.com:CloudNativeEntrepreneur/example-hasura.git",
-    "projects/example-readmodel-db": "git@github.com:CloudNativeEntrepreneur/example-readmodel-db.git"
+    "projects/example-readmodel-db": "git@github.com:CloudNativeEntrepreneur/example-readmodel-db.git",
+    "projects/web3auth-db": "git@github.com:CloudNativeEntrepreneur/web3auth-db.git"
   }
 }
