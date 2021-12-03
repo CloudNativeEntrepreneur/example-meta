@@ -10,7 +10,7 @@ destroy-local-dev-cluster:
 
 finish-onboard:
 	kubectl ctx $(LOCAL_DEV_CLUSTER)
-	@echo "✅ Onboard Complete."
+	@echo "✅ Onboard Complete. Start localizer in a new window."
 
 hard-refresh-local-images:
 	kubectl ctx $(LOCAL_DEV_CLUSTER)
