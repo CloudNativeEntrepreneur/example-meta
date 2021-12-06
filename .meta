@@ -4,7 +4,7 @@
     "projects/example-dead-letter-service": "git@github.com:CloudNativeEntrepreneur/example-dead-letter-service.git",
     "projects/example-hasura-projections-service": "git@github.com:CloudNativeEntrepreneur/example-hasura-projections-service.git",
     "projects/example-hasura": "git@github.com:CloudNativeEntrepreneur/example-hasura.git",
-    "projects/example-message-model": "git@github.com:CloudNativeEntrepreneur/example-message-model-service.git",
+    "projects/example-todo-model": "git@github.com:CloudNativeEntrepreneur/example-todo-model-service.git",
     "projects/example-readmodel-db": "git@github.com:CloudNativeEntrepreneur/example-readmodel-db.git",
     "projects/sourced-db": "git@github.com:CloudNativeEntrepreneur/sourced-db.git",
     "projects/sveltekit-web3auth": "git@github.com:CloudNativeEntrepreneur/sveltekit-web3auth.git",
