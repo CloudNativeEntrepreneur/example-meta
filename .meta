@@ -1,6 +1,5 @@
 {
   "projects": {
-    "projects/agenda-service": "git@github.com:CloudNativeEntrepreneur/agenda-service.git",
     "projects/example-dead-letter-service": "git@github.com:CloudNativeEntrepreneur/example-dead-letter-service.git",
     "projects/example-hasura-projections-service": "git@github.com:CloudNativeEntrepreneur/example-hasura-projections-service.git",
     "projects/example-hasura": "git@github.com:CloudNativeEntrepreneur/example-hasura.git",
