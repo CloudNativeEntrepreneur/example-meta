@@ -11,7 +11,7 @@ destroy-local-dev-cluster:
 
 finish-onboard:
 	kubectl ctx $(LOCAL_DEV_CLUSTER)
-	@echo "✅ Onboard Complete. Start localizer in a new window, and then run `make open` to open the projects to run locally. In each project, except for "example-hasura", run `make dev` to start development mode. For the example-hasura project, you can start the hasura console via the hasura CLI - see project's README for more details."
+	@echo "✅ Onboard Complete. Start localizer in a new window ("sudo localizer"), and then run "make open" to open the projects to run locally. In each project, except for "example-hasura", run "make dev" to start development mode. For the example-hasura project, you can start the hasura console via the hasura CLI - see project's README for more details."
 
 hard-refresh-local-images:
 	kubectl ctx $(LOCAL_DEV_CLUSTER)
