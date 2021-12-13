@@ -122,3 +122,11 @@ HASURA_GRAPHQL_DATABASE_URL=postgres://readmodel:$(kubectl get secret readmodel.
 ```
 
 Will work from inside the cluster, as well as localhost with localizer.
+
+## Hard Reset
+
+Sometimes you just want to blow it all away and start over. To do so, run:
+
+```
+make hard-reset
+```
