@@ -11,3 +11,8 @@
 /templates/sveltekit-web3auth-template/
 /tools/local-dev-cluster/
 /projects/example-policy-service/
+/environments/previews/
+/environments/production/
+/environments/cluster-tooling/
+/environments/cluster-tooling/
+/gitops/example-gitops/

@@ -11,6 +11,10 @@
     "projects/web3auth-service": "git@github.com:CloudNativeEntrepreneur/web3auth-service.git",
     "templates/sveltekit-web3auth-template": "git@github.com:CloudNativeEntrepreneur/sveltekit-web3auth-template.git",
     "tools/local-dev-cluster": "git@github.com:CloudNativeEntrepreneur/local-dev-cluster.git",
-    "projects/example-policy-service": "git@github.com:CloudNativeEntrepreneur/example-policy-service.git"
+    "projects/example-policy-service": "git@github.com:CloudNativeEntrepreneur/example-policy-service.git",
+    "environments/previews": "git@github.com:CloudNativeEntrepreneur/example-previews.git",
+    "environments/production": "git@github.com:CloudNativeEntrepreneur/example-prod-env.git",
+    "environments/cluster-tooling": "git@github.com:CloudNativeEntrepreneur/example-cluster-tooling.git",
+    "gitops/example-gitops": "git@github.com:CloudNativeEntrepreneur/example-gitops.git"
   }
 }
