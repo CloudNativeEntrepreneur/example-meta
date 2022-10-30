@@ -14,5 +14,5 @@
 /environments/previews/
 /environments/production/
 /environments/cluster-tooling/
-/environments/cluster-tooling/
 /gitops/example-gitops/
+/projects/environment/

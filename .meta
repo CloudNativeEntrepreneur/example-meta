@@ -15,6 +15,7 @@
     "environments/previews": "git@github.com:CloudNativeEntrepreneur/example-previews.git",
     "environments/production": "git@github.com:CloudNativeEntrepreneur/example-prod-env.git",
     "environments/cluster-tooling": "git@github.com:CloudNativeEntrepreneur/example-cluster-tooling.git",
-    "gitops/example-gitops": "git@github.com:CloudNativeEntrepreneur/example-gitops.git"
+    "gitops/example-gitops": "git@github.com:CloudNativeEntrepreneur/example-gitops.git",
+    "projects/environment": "git@github.com:CloudNativeEntrepreneur/environment.git"
   }
 }
