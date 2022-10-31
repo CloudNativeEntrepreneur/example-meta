@@ -6,7 +6,7 @@
     "apps/example-hasura": "git@github.com:CloudNativeEntrepreneur/example-hasura.git",
     "apps/example-policy-service": "git@github.com:CloudNativeEntrepreneur/example-policy-service.git",
     "apps/example-readmodel-db": "git@github.com:CloudNativeEntrepreneur/example-readmodel-db.git",
-    "apps/example-todo-model": "git@github.com:CloudNativeEntrepreneur/example-todo-model-service.git",
+    "apps/example-todo-model-service": "git@github.com:CloudNativeEntrepreneur/example-todo-model-service.git",
     "apps/sourced-db": "git@github.com:CloudNativeEntrepreneur/sourced-db.git",
     "apps/sveltekit-web3auth-template": "git@github.com:CloudNativeEntrepreneur/sveltekit-web3auth-template.git",
     "apps/web3auth-db": "git@github.com:CloudNativeEntrepreneur/web3auth-db.git",

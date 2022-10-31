@@ -5,7 +5,7 @@
 /apps/example-hasura/
 /apps/example-policy-service/
 /apps/example-readmodel-db/
-/apps/example-todo-model/
+/apps/example-todo-model-service/
 /apps/sourced-db/
 /apps/sveltekit-web3auth-template/
 /apps/web3auth-db/

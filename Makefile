@@ -1,7 +1,7 @@
 OS := $(shell uname)
 LOCAL_DEV_CLUSTER ?= rancher-desktop
-PROJECTS_TO_ONBOARD=apps/web3auth-service,apps/example-todo-model,apps/example-hasura-projections-service,apps/example-dead-letter-service,apps/sveltekit-web3auth-template
-PROJECTS_TO_OPEN=apps/example-hasura,apps/web3auth-service,apps/example-todo-model,apps/example-hasura-projections-service,apps/example-dead-letter-service,apps/sveltekit-web3auth-template
+PROJECTS_TO_ONBOARD=apps/web3auth-service,apps/example-todo-model-service,apps/example-hasura-projections-service,apps/example-dlq-service,apps/sveltekit-web3auth-template,apps/example-policy-service
+PROJECTS_TO_OPEN=apps/example-hasura,apps/web3auth-service,apps/example-todo-model-service,apps/example-hasura-projections-service,apps/example-dlq-service,apps/example-policy-service,apps/sveltekit-web3auth-template
 GITOPS_REPO=https://github.com/CloudNativeEntrepreneur/example-gitops-local
 
 delete-projects:
