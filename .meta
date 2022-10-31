@@ -1,22 +1,22 @@
 {
   "projects": {
+    "apps/environment": "git@github.com:CloudNativeEntrepreneur/environment.git",
+    "apps/example-dlq-service": "git@github.com:CloudNativeEntrepreneur/example-dlq-service.git",
+    "apps/example-hasura-projections-service": "git@github.com:CloudNativeEntrepreneur/example-hasura-projections-service.git",
+    "apps/example-hasura": "git@github.com:CloudNativeEntrepreneur/example-hasura.git",
+    "apps/example-policy-service": "git@github.com:CloudNativeEntrepreneur/example-policy-service.git",
+    "apps/example-readmodel-db": "git@github.com:CloudNativeEntrepreneur/example-readmodel-db.git",
+    "apps/example-todo-model": "git@github.com:CloudNativeEntrepreneur/example-todo-model-service.git",
+    "apps/sourced-db": "git@github.com:CloudNativeEntrepreneur/sourced-db.git",
+    "apps/sveltekit-web3auth-template": "git@github.com:CloudNativeEntrepreneur/sveltekit-web3auth-template.git",
+    "apps/web3auth-db": "git@github.com:CloudNativeEntrepreneur/web3auth-db.git",
+    "apps/web3auth-service": "git@github.com:CloudNativeEntrepreneur/web3auth-service.git",
     "environments/cluster-tooling": "git@github.com:CloudNativeEntrepreneur/example-cluster-tooling.git",
     "environments/local": "git@github.com:CloudNativeEntrepreneur/example-local-env.git",
     "environments/previews": "git@github.com:CloudNativeEntrepreneur/example-previews.git",
     "environments/production": "git@github.com:CloudNativeEntrepreneur/example-prod-env.git",
     "gitops/example-gitops-local": "git@github.com:CloudNativeEntrepreneur/example-gitops-local.git",
     "gitops/example-gitops": "git@github.com:CloudNativeEntrepreneur/example-gitops.git",
-    "projects/environment": "git@github.com:CloudNativeEntrepreneur/environment.git",
-    "projects/example-dlq-service": "git@github.com:CloudNativeEntrepreneur/example-dlq-service.git",
-    "projects/example-hasura-projections-service": "git@github.com:CloudNativeEntrepreneur/example-hasura-projections-service.git",
-    "projects/example-hasura": "git@github.com:CloudNativeEntrepreneur/example-hasura.git",
-    "projects/example-policy-service": "git@github.com:CloudNativeEntrepreneur/example-policy-service.git",
-    "projects/example-readmodel-db": "git@github.com:CloudNativeEntrepreneur/example-readmodel-db.git",
-    "projects/example-todo-model": "git@github.com:CloudNativeEntrepreneur/example-todo-model-service.git",
-    "projects/sourced-db": "git@github.com:CloudNativeEntrepreneur/sourced-db.git",
-    "projects/sveltekit-web3auth": "git@github.com:CloudNativeEntrepreneur/sveltekit-web3auth.git",
-    "projects/web3auth-db": "git@github.com:CloudNativeEntrepreneur/web3auth-db.git",
-    "projects/web3auth-service": "git@github.com:CloudNativeEntrepreneur/web3auth-service.git",
-    "templates/sveltekit-web3auth-template": "git@github.com:CloudNativeEntrepreneur/sveltekit-web3auth-template.git"
+    "libraries/sveltekit-web3auth": "git@github.com:CloudNativeEntrepreneur/sveltekit-web3auth.git"
   }
 }
