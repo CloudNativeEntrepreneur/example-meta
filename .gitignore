@@ -1,5 +1,5 @@
 /projects/agenda-service/
-/projects/example-dead-letter-service/
+/projects/example-dlq-service/
 /projects/example-hasura-projections-service/
 /projects/example-hasura/
 /projects/example-todo-model/
@@ -15,4 +15,6 @@
 /environments/production/
 /environments/cluster-tooling/
 /gitops/example-gitops/
+/gitops/example-gitops-local/
 /projects/environment/
+/environments/local/

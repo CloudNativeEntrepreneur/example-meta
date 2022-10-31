@@ -1,6 +1,6 @@
 {
   "projects": {
-    "projects/example-dead-letter-service": "git@github.com:CloudNativeEntrepreneur/example-dead-letter-service.git",
+    "projects/example-dlq-service": "git@github.com:CloudNativeEntrepreneur/example-dlq-service.git",
     "projects/example-hasura-projections-service": "git@github.com:CloudNativeEntrepreneur/example-hasura-projections-service.git",
     "projects/example-hasura": "git@github.com:CloudNativeEntrepreneur/example-hasura.git",
     "projects/example-todo-model": "git@github.com:CloudNativeEntrepreneur/example-todo-model-service.git",
@@ -16,6 +16,8 @@
     "environments/production": "git@github.com:CloudNativeEntrepreneur/example-prod-env.git",
     "environments/cluster-tooling": "git@github.com:CloudNativeEntrepreneur/example-cluster-tooling.git",
     "gitops/example-gitops": "git@github.com:CloudNativeEntrepreneur/example-gitops.git",
-    "projects/environment": "git@github.com:CloudNativeEntrepreneur/environment.git"
+    "projects/environment": "git@github.com:CloudNativeEntrepreneur/environment.git",
+    "environments/local": "git@github.com:CloudNativeEntrepreneur/example-local-env.git",
+    "gitops/example-gitops-local": "git@github.com:CloudNativeEntrepreneur/example-gitops-local.git"
   }
 }
