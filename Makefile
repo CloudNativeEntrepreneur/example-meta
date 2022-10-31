@@ -10,8 +10,6 @@ delete-projects:
 finish-onboard:
 	@echo "✅ Onboard Complete. To complete development setup:\n\n1. Start localizer in a new window (\`sudo localizer\`) and leave it running. \n\n2. Run \`make open\` to open the projects to run locally. \n\n3. In each project(*), run \`make dev\` or use VSCode Debugger to start development mode with a debugger. \n\n\t* For \"example-hasura\", you can start the hasura console via the hasura CLI (\`hasura console\`)\n\t\t- see project's README for more details.\n\t* The VSCode Debugger is not supported for Sveltekit projects currently.\n\t\t- (https://github.com/CloudNativeEntrepreneur/sveltekit-web3auth/issues/6).\n\n"
 
-hard-reset: destroy-local-dev-cluster update-meta-repos onboard
-
 onboard: gitops-local onboard-projects finish-onboard
 
 open:
