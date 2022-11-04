@@ -17,6 +17,7 @@
     "environments/production": "git@github.com:CloudNativeEntrepreneur/example-prod-env.git",
     "gitops/example-gitops-local": "git@github.com:CloudNativeEntrepreneur/example-gitops-local.git",
     "gitops/example-gitops": "git@github.com:CloudNativeEntrepreneur/example-gitops.git",
-    "libraries/sveltekit-web3auth": "git@github.com:CloudNativeEntrepreneur/sveltekit-web3auth.git"
+    "libraries/sveltekit-web3auth": "git@github.com:CloudNativeEntrepreneur/sveltekit-web3auth.git",
+    "onboard": "git@github.com:CloudNativeEntrepreneur/onboard.git"
   }
 }
