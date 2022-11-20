@@ -12,12 +12,12 @@
 /apps/web3auth-service/
 /environments/cluster-tooling/
 /environments/local/
+/environments/observability/
 /environments/previews/
 /environments/production/
+/gitops/actions/
 /gitops/example-gitops-local/
 /gitops/example-gitops/
 /libraries/sveltekit-web3auth/
-/tools/local-dev-cluster/
 /onboard/
-/gitops/actions/
-/environments/observability/
+/tools/local-dev-cluster/

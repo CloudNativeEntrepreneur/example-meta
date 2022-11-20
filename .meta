@@ -13,13 +13,13 @@
     "apps/web3auth-service": "git@github.com:CloudNativeEntrepreneur/web3auth-service.git",
     "environments/cluster-tooling": "git@github.com:CloudNativeEntrepreneur/example-cluster-tooling.git",
     "environments/local": "git@github.com:CloudNativeEntrepreneur/example-local-env.git",
+    "environments/observability": "git@github.com:CloudNativeEntrepreneur/observability.git",
     "environments/previews": "git@github.com:CloudNativeEntrepreneur/example-previews.git",
     "environments/production": "git@github.com:CloudNativeEntrepreneur/example-prod-env.git",
+    "gitops/actions": "git@github.com:CloudNativeEntrepreneur/actions.git",
     "gitops/example-gitops-local": "git@github.com:CloudNativeEntrepreneur/example-gitops-local.git",
     "gitops/example-gitops": "git@github.com:CloudNativeEntrepreneur/example-gitops.git",
     "libraries/sveltekit-web3auth": "git@github.com:CloudNativeEntrepreneur/sveltekit-web3auth.git",
-    "onboard": "git@github.com:CloudNativeEntrepreneur/onboard.git",
-    "gitops/actions": "git@github.com:CloudNativeEntrepreneur/actions.git",
-    "environments/observability": "git@github.com:CloudNativeEntrepreneur/observability.git"
+    "onboard": "git@github.com:CloudNativeEntrepreneur/onboard.git"
   }
 }
