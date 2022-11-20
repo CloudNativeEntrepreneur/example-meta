@@ -19,3 +19,5 @@
 /libraries/sveltekit-web3auth/
 /tools/local-dev-cluster/
 /onboard/
+/gitops/actions/
+/environments/observability/

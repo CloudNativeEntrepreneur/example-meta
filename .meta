@@ -18,6 +18,8 @@
     "gitops/example-gitops-local": "git@github.com:CloudNativeEntrepreneur/example-gitops-local.git",
     "gitops/example-gitops": "git@github.com:CloudNativeEntrepreneur/example-gitops.git",
     "libraries/sveltekit-web3auth": "git@github.com:CloudNativeEntrepreneur/sveltekit-web3auth.git",
-    "onboard": "git@github.com:CloudNativeEntrepreneur/onboard.git"
+    "onboard": "git@github.com:CloudNativeEntrepreneur/onboard.git",
+    "gitops/actions": "git@github.com:CloudNativeEntrepreneur/actions.git",
+    "environments/observability": "git@github.com:CloudNativeEntrepreneur/observability.git"
   }
 }
