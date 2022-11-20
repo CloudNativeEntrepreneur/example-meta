@@ -32,11 +32,11 @@ This step describes how to get updates, if this is your first run, go ahead and 
 
 If you've `meta git clone`d the repo in the past and new repos were added to the `.meta` file since then, you can `update` the meta repo with new repositories with the following:
 
-#### 1. get latest master of meta repo
+#### 1. get latest main of meta repo
 ```
-git checkout master
+git checkout main
 git fetch --all --tags -p
-git rebase origin/master
+git rebase origin/main
 ```
 
 #### 2. Then, to clone any missing repos from the meta repo to your machine, run:
@@ -53,16 +53,16 @@ meta git update
 
 if you've installed `meta` globally
 
-#### 3. Then to get on the latest version of `master` for each project in the .meta JSON file, you can run:
+#### 3. Then to get on the latest version of `main` for each project in the .meta JSON file, you can run:
 
 ```
-npx meta exec "git fetch && git rebase origin/master --autostash"
+npx meta exec "git fetch && git rebase origin/main --autostash"
 ```
 
 or 
 
 ```
-meta exec "git fetch && git rebase origin/master --autostash"
+meta exec "git fetch && git rebase origin/main --autostash"
 ```
 
 if you've installed `meta` globally
@@ -127,6 +127,4 @@ Will work from inside the cluster, as well as localhost with localizer.
 
 Sometimes you just want to blow it all away and start over. To do so, run:
 
-```
-make hard-reset
-```
+Through the Rancher Desktop UI, choose Troubleshooting > Reset Kubernetes
